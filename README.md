@@ -1,3 +1,3 @@
 # AngularJS
 
-Using Angular's different component
+Using Angular's different component with Angular material
